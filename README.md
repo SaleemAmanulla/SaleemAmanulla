@@ -16,7 +16,6 @@
 <p align="left">
 <a href="https://twitter.com/saleemamanulla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saleemamanulla" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saleemamanulla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saleemamanulla" height="30" width="40" /></a>
-
 <a href="https://instagram.com/stolen_._king__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stolen_._king__" height="30" width="40" /></a>
 </p>
 <center>
